@@ -5,7 +5,9 @@ Basic discord bot that will display current map as bot status.
 Prerequisites:
 
 Python 3.6.6 or 3.7(requires some dependencies that are out of date on pip)
+
 python-valve 0.2.1
+
 discord.py
 
 
