@@ -1,2 +1,2 @@
-discord.py
 python-valve==0.2.1
+discord.py==0.16.12
